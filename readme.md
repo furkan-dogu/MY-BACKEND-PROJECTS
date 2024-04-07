@@ -6,7 +6,7 @@
 
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-|[Live Link](https://library-be-l0e5.onrender.com/)|Node.js, Express.js, SQLite, cors, dotenv, express-async-errors, Sequelize|[Book Management System](https://github.com/furkan-dogu/Library_BE)
+|[Live Link](https://library-be-l0e5.onrender.com/)|Node.js, Express.js, MongoDB, Mongoose, Cors, Dotenv, express-async-errors|[Library](https://github.com/furkan-dogu/Library_BE)
 
 <div align="center">
   <a align="center" href="https://github.com/furkan-dogu">◀ BACK</a>
